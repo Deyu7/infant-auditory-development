@@ -1,0 +1,11 @@
+component,top words
+C1: Railway,"train, horn, railroad, running, tracks, water, passes, signal, blowing, blows"
+C2: Machinery,"engine, revving, running, idle, car, vehicle, vibrating, motor, starting, times"
+C3: Water/Rain,"rain, water, thunder, falling, splashing, gurgling, stream, falls, trickling, river"
+C4: Crowd noise,"crowd, whistle, cheer, children, woman, talk, applauding, cheering, train, group"
+C5: Impact sounds,"cat, meowing, door, speech, person, laughs, laughing, high, bell, occurs"
+C6: Infant/Animal,"crying, baby, laughing, woman, young, cries, person, laugh, cawing, child"
+C7: Female speech,"speaks, woman, female, adult, faucet, metal, water, environment, speech, dog"
+C8: Weather/Waves,"rain, thunder, water, wind, heavy, stream, river, falls, flowing, splashing"
+C9: Outdoor mixed,"train, horn, talk, honking, crowd, railroad, engine, truck, vehicle, blowing"
+C10: Vehicles,"engine, revving, vehicle, accelerates, accelerating, car, revs, motor, running, humming"
