@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Computational Modeling of Infant Auditory Development"
+abstract: >-
+  A computational study of how structured auditory representations emerge from
+  exposure to naturalistic acoustic environments. Pretrained Audio Spectrogram
+  Transformer (AST) embeddings are probed for auditory skills and decomposed with
+  Bayesian Non-negative Matrix Factorization (BNMF) to interpret the latent sound
+  components, using AudioCaps as a proxy for naturalistic auditory input.
+type: software
+authors:
+  - given-names: Deyu
+    family-names: Wang
+    affiliation: "UC San Diego, MS in Computational Social Science"
+year: 2026
+keywords:
+  - auditory development
+  - audio representation learning
+  - Audio Spectrogram Transformer
+  - Bayesian non-negative matrix factorization
+  - AudioCaps
+license-url: ""
+references:
+  - type: article
+    title: "Grounded language acquisition through the eyes and ears of a single child"
+    authors:
+      - family-names: Orhan
+        given-names: A. Emin
+    year: 2024
+    journal: "Science"
+  - type: conference-paper
+    title: "AST: Audio Spectrogram Transformer"
+    authors:
+      - family-names: Gong
+        given-names: Yuan
+      - family-names: Chung
+        given-names: Yu-An
+      - family-names: Glass
+        given-names: James
+    year: 2021
+    collection-title: "Interspeech"

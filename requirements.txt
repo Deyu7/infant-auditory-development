@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Dimensionality reduction
+umap-learn
+
+# Audio processing
+librosa
+soundfile
+
+# Deep learning / pretrained AST embeddings
+torch
+transformers
+
+# Notebooks
+jupyterlab
+ipykernel
